@@ -2,8 +2,14 @@ Welcome to my kitchen.
 Pasta
 Puri
 Raita
+
 Sabji
 ladoo
+
+
+Pizza
+
+
 
 
 
@@ -15,4 +21,6 @@ ladoo
 
 
 Thank you
+
 Done my changes
+final menu
